@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner-github.png" alt="Banner do GitHub" />
+  <img src="./banner%20github.png" alt="Banner do GitHub" />
 </p>
